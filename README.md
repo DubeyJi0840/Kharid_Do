@@ -69,6 +69,12 @@ All images are expected under:
 
 ## Getting Started
 
+## SCREENSHOT
+
+<img width="760" height="1600" alt="WhatsApp Image 2026-05-14 at 17 20 38" src="https://github.com/user-attachments/assets/983dc8e9-a6e7-4502-85a6-aafeedbe2854" />
+
+
+
 ### Prerequisites
 
 - Flutter SDK installed
